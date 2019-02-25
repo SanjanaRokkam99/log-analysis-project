@@ -40,6 +40,7 @@ Running the queries:
     Run log.py using:  $ python log.py 
  
 The output is redirected to reports.txt file
+
     $python log.py > reports.txt
     
     
