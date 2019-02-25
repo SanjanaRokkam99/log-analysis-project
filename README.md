@@ -37,7 +37,9 @@ The data contains 3 relations:
 ## Step -4
 Running the queries:
 
-    Run log.py using:  $ python logs.py > reports.txt
-  The output is redirected to reports.txt file
+    Run log.py using:  $ python log.py 
+ 
+The output is redirected to reports.txt file
+    $python log.py > reports.txt
     
     
